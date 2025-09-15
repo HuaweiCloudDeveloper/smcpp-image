@@ -4,7 +4,7 @@
 
 更新并安装依赖库
 
-```
+```bash
 sudo yum update -y
 sudo yum install -y python3-devel gmp-devel mpfr-devel gsl-devel gcc openmpi-devel
 ```
@@ -50,3 +50,4 @@ pip install pysam==0.23.3
 cd ..
 rm -rf smcpp
 ```
+
