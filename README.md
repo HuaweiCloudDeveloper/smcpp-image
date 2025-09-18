@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[SMC++-种群大小历史估计](https://marketplace.huaweicloud.com/contents/)
+- 镜像商品：[SMC++-种群大小历史估计](https://marketplace.huaweicloud.com/hidden/contents/fff602db-d94f-4ed7-8d0e-7b87189ddc04#productid=OFFI1174525460740751360)
 - 镜像规格：SMC++-kunpeng-HCE
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：ARM
