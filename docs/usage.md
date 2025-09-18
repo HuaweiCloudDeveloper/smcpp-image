@@ -1,7 +1,7 @@
 # SMC++种群大小历史估计使用指南
 
 # 一、商品链接
-
+[SCM++种群大小历史估计](https://marketplace.huaweicloud.com/hidden/contents/fff602db-d94f-4ed7-8d0e-7b87189ddc04#productid=OFFI1174525460740751360)
 # 二、商品说明
 
 SMC++是一个用于从全基因组测序数据中估计种群大小历史的程序。
