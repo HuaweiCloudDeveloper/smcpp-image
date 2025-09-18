@@ -21,7 +21,7 @@
 
 By jointly analyzing whole-genome samples from multiple populations, it infers the population size history and divergence times of different populations.
 
-This project offers pre-configured [**SMC++ Population Size History Estimate Program**]() images with SMC++ and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**SMC++ Population Size History Estimate Program**](https://marketplace.huaweicloud.com/hidden/contents/fff602db-d94f-4ed7-8d0e-7b87189ddc04#productid=OFFI1174525460740751360) images with SMC++ and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 > **System Requirements:**
 >
